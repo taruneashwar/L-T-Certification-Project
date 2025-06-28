@@ -1,7 +1,7 @@
 Name: Tarun Eashwar
 College: Vellore Institute of Technology, Vellore
 Registration Number: 23BML0094
-Course Name: Industrial Applications of Microcontrollers - A Practice Based Approach
+Course: Industrial Applications of Microcontrollers - A Practice Based Approach
 
 
 

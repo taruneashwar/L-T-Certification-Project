@@ -1,6 +1,6 @@
-Name: Tarun Eashwar
-College: Vellore Institute of Technology, Vellore
-Registration Number: 23BML0094
+Name: Tarun Eashwar; 
+College: Vellore Institute of Technology, Vellore; 
+Registration Number: 23BML0094; 
 Course: Industrial Applications of Microcontrollers - A Practice Based Approach
 
 
